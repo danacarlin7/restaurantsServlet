@@ -1,14 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package RestaurantSelector2;
 
-/**
- *
- * @author Tarzan
- */
+
 public class RestaurantLoader1 {
   public int loadRestaurants(){
   Restaurant.createRestaurant("Rafele Restaurante", "Italian", "WestVillage", "Inexpensive");
